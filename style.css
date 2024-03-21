@@ -1,0 +1,131 @@
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    left: 25%;
+    right:25%;
+   
+
+}
+.custom-bg
+{
+    height:600px;
+   background-image: url(back.jpg);
+   background-size: cover;
+   position: relative;
+}
+
+.bc
+{
+    background-color: skyblue;
+    height: 70x;
+    width: 20px;
+    margin-left: 10px;
+    position:relative;
+    top:90px;
+    left:30px;
+}
+.motion
+{
+    width:67%;
+    height:50%;
+    background-color: yellow;
+    opacity:1.0;
+    position:absolute;
+    right:1.5%;
+    top: 0%;
+    text-align: right;
+}
+.pro
+{
+    background-color: orangered;
+    opacity: 0.5;
+    width:481px;
+    margin-left:px;
+    height:600px;
+    color: white;
+}
+.h1
+{
+    position:relative;
+    top:50px;
+    left:30px;
+}
+.h4{
+    margin-top: 35px;
+    margin-left: 30px;
+}
+.hey
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border: 4px solid #fff;
+    margin-top: 55px;
+    text-align: center;
+    width: 220px;
+    height: 170px;
+    left: 40px;
+    position: relative;
+}
+.co
+{
+    background-color: skyblue;
+    height:25%;
+    width:99%;
+    position: relative;
+    left:-2px;
+    top: -3%;
+}
+.cor
+{
+background-color: #363636;
+color: white;
+font-weight: bold;
+width: 50%;
+position: relative;
+top:30px;
+margin-left: 40px;
+padding-left:50px;
+}
+.te
+{
+    background-color: #363636;
+    color: white;
+    font-weight: bold;
+    width:27%;
+    position: relative;
+    top:60px;
+    margin-left: 50px;
+    padding-left:40px;
+}
+.pg
+{
+    position: relative;
+    left:480px;
+    top:10%;
+    bottom:20px;
+    color:white;
+    width: auto;
+}
+.head
+{
+    background-color:white;
+}
+.he
+{
+    font-weight: 900;
+    color:orangered
+}
+.fl1
+{
+font-weight: 900;
+color:skyblue;
+}
+.ad
+{
+    background-color: yellow;
+    position: absolute;
+    right: 26px;
+    bottom:-20px;
+    padding:25px;
+}
